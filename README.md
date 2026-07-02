@@ -7,7 +7,7 @@ Project materials for:
 
 ## Overview
 
-This project studies reward-aligned expert sequencing for long-horizon robotic manipulation. The work focuses on improving sequential decision-making in robotic tasks by structuring expert demonstrations and evaluating reinforcement learning performance across long-horizon manipulation settings.
+This project studies reward-aligned expert sequencing for long-horizon robotic manipulation. The work focuses on improving sequential decision-making in robotic tasks by structuring policies and evaluating reinforcement learning performance across long-horizon manipulation settings.
 
 ## Repository Purpose
 
